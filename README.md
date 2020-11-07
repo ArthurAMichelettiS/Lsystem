@@ -1,5 +1,7 @@
 # Lsystem
 
+A partir de uma gramática recebida em txt, gera ao executar um arquivo SVG
+
 # Gramática:
 
 alfabeto: E, D, C, L, x <br />

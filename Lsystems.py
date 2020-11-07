@@ -58,7 +58,7 @@ import math
 
 tam = 3000
 
-pontoAtual = [tam//4, tam//4]
+pontoAtual = [tam//4, tam//3]
 anguloAtual = -90
 passoAtual = lC
 saidaTxt = f'''<?xml version="1.0" encoding="UTF-8" standalone="no"?>

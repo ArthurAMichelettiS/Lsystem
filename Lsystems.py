@@ -42,7 +42,7 @@ for i in range(qtdLoop):
 
     palavraAtual = novaPalavra
 
-print("".join(novaPalavra))
+# print("".join(novaPalavra))
 
 
 
@@ -51,14 +51,14 @@ l = 120
 
 lC = 20
 lL = 50
-curva = 45
+curva = 75
 
 import math
 # escrever svg
 
-tam = 1200
+tam = 3000
 
-pontoAtual = [tam//2, tam//2]
+pontoAtual = [tam//4, tam//4]
 anguloAtual = -90
 passoAtual = lC
 saidaTxt = f'''<?xml version="1.0" encoding="UTF-8" standalone="no"?>
